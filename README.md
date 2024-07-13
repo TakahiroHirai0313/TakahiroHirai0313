@@ -26,4 +26,4 @@ My favorite programming language is Java. I prefer strict languages.
 
 ## Devtools
 
-[![My Skills](https://skillicons.dev/icons?i=git,bash,docker,figma,netlify,npm.gradle,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,bash,docker,figma,netlify,npm,gradle,vscode)](https://skillicons.dev)
